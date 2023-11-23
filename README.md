@@ -16,10 +16,10 @@
 <div style="display: flex; justify-content: center; gap: 1rem;">
 <div style="padding: 5px; color: #70A4FC; font-weight: bold;">
     <ul style="padding-top: 1.5em;">
-    <li>I'm an estudant at <a href="https://www.cruzeirodosul.edu.br/" style="text-decoration: none; color: inherit; hover:font-style: underline;">🌟 UNICSUL 🌟</a></li>
-    <li>I ❤️ 🎮 & 🎹</li>
-    <li>I looking foward to becoming a game dev</li>
-    <li>Sometimes i mess around with front-end</li>
+      <li>I'm an estudant at 🌟<a href="https://www.cruzeirodosul.edu.br/" style="text-decoration: none; color: inherit; hover:font-style: underline;">UNICSUL</a>🌟</li>
+      <li>I ❤️ 🎮 & 🎹</li>
+      <li>I looking foward to becoming a game dev</li>
+      <li>Sometimes i mess around with front-end</li>
     </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vv5gbmb6x7pyd4t7vmjfotabma&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=5faae1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
